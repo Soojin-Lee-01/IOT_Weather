@@ -18,3 +18,5 @@
 
 <라즈베리파이 회로도> 
 ![회로도](https://github.com/Soojin-Lee-01/IOT_Weather/assets/87466284/2f3a998a-456e-4a37-80b2-d72043a88fc7)
+
+<코드 알고리즘>
