@@ -20,4 +20,4 @@
 ![회로도](https://github.com/Soojin-Lee-01/IOT_Weather/assets/87466284/2f3a998a-456e-4a37-80b2-d72043a88fc7)
 
 <코드 알고리즘>
-![알고리즘](https://github.com/Soojin-Lee-01/IOT_Weather/assets/87466284/2a7af816-6aa5-4657-b4eb-bcb975f20928){: width="100" height="100"}
+<img src="(https://github.com/Soojin-Lee-01/IOT_Weather/assets/87466284/2a7af816-6aa5-4657-b4eb-bcb975f20928)https://github.com/Soojin-Lee-01/IOT_Weather/assets/87466284/2a7af816-6aa5-4657-b4eb-bcb975f20928.png" width="200" height="400"/>
