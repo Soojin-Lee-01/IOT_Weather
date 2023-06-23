@@ -23,5 +23,5 @@
 <img src="https://github.com/Soojin-Lee-01/IOT_Weather/assets/87466284/2a7af816-6aa5-4657-b4eb-bcb975f20928.png" width="500" height="700"/>
 
 ### <시연 영상>
-<img src="https://github.com/Soojin-Lee-01/IOT_Weather/assets/87466284/2153406c-2f19-4966-a6ba-e18b2d721a52">
+<img src="https://github.com/Soojin-Lee-01/IOT_Weather/assets/87466284/2153406c-2f19-4966-a6ba-e18b2d721a52.jpg">
 
